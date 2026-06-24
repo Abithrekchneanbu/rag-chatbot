@@ -230,7 +230,7 @@ This project is open source. See [LICENSE](LICENSE) for details.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b3ed,100:0d1117&height=130&section=footer" width="100%"/>
 
-**Built with ❤️ by [Abithrekchneanbu](https://github.com/Abithrekchneanbu)**
+**Built by [Abithrekchneanbu](https://github.com/Abithrekchneanbu)**
 
 *If this helped you, please consider giving it a ⭐!*
 
